@@ -1,5 +1,5 @@
 {
-    "name": "tonton-cra-template-react-tailwind-typescript",
+    "name": "cra-template-squidbomb-react-tailwind-typescript",
     "version": "1.0.0",
     "description": "React tailwind and typescript starter template",
     "main": "index.js",
