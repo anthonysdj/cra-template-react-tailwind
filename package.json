@@ -1,0 +1,20 @@
+{
+    "name": "tonton-cra-template-react-tailwind-typescript",
+    "version": "1.0.0",
+    "description": "React tailwind and typescript starter template",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/squidbomb/cra-template-react-tailwind"
+    },
+    "author": "tonton",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/squidbomb/cra-template-react-tailwind/issues"
+    },
+    "homepage": "https://github.com/squidbomb/cra-template-react-tailwind#readme"
+}

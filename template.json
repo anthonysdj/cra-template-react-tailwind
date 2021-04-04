@@ -1,0 +1,27 @@
+{
+    "package": {
+        "devDependencies": {
+            "@tailwindcss/postcss7-compat": "^2.0.4",
+            "autoprefixer": "^9.8.6",
+            "postcss": "^7.0.35",
+            "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.4"
+        },
+        "dependencies": {
+            "@craco/craco": "^6.1.1",
+            "@types/jest": "^26.0.22",
+            "@types/node": "^12.20.7",
+            "@types/react": "^17.0.3",
+            "@types/react-dom": "^17.0.3",
+            "typescript": "^4.2.3"
+        },
+        "scripts": {
+            "start": "craco start",
+            "build": "craco build",
+            "test": "craco test"
+        },
+        "eslintConfig": {
+            "extends": [],
+            "plugins": []
+        }
+    }
+}
